@@ -11,8 +11,8 @@ const fs = require("fs");
 
 
 // Moralis API info
-const serverUrl = "https://qjjbhvlq5wbp.usemoralis.com:2053/server";
-const appId = "kDu0eZZzRXjqbpzG7rqjEuj7D0jsO5JZDgd8QAvv";
+const serverUrl = "";
+const appId = "";
 
 
 //Contract address for the program to look at
